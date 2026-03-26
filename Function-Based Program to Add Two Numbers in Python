@@ -1,0 +1,59 @@
+Project Overview
+
+This project demonstrates a simple Python program that calculates the sum of two numbers using a user-defined function. It is designed to introduce fundamental programming concepts such as functions, user input, and basic arithmetic operations.
+
+ Problem Statement
+
+Manual calculation can sometimes lead to errors. A simple program is required to:
+
+Accept two numbers from the user
+Perform addition using a function
+Display the result accurately
+
+ Objectives
+Develop a Python program to add two numbers
+Understand the use of functions in Python
+Learn how to take user input and display output
+Perform basic arithmetic operations
+
+ Technologies Used
+Programming Language: Python
+IDE: VS Code / IDLE
+
+ Features
+Accepts user input dynamically
+Uses a user-defined function
+Performs accurate addition
+Simple and beginner-friendly implementation
+
+ How It Works
+The program prompts the user to enter two numbers
+A function add_numbers(a, b) is defined
+The function calculates and returns the sum
+The result is displayed to the user
+
+
+ Algorithm
+1. Start
+2. Define function add_numbers(a, b)
+3. Return a + b
+4. Input first number
+5. Input second number
+6. Call function with inputs
+7. Store result
+8. Display result
+9. End
+
+ Result
+
+The program successfully takes two numbers as input and displays their sum using a Python function.
+
+ Conclusion
+
+This project demonstrates the basic use of functions, user input, and arithmetic operations in Python. It serves as a foundational example for beginners to understand how functions work in real programs.
+
+ Future Enhancements
+Add support for multiple numbers
+Include other operations (subtraction, multiplication, division)
+Build a menu-driven calculator
+Add error handling for invalid inputs
